@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+
+"""
+Aidan Kiser
+25 October 2024
+"""
+
 """
 Created on Thu Oct  8 23:29:10 2020
 
